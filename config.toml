@@ -95,7 +95,7 @@ url = "https://github.com/ydnysh/"
  # url = "/about/"
 
   #[[menu.main]]
-  name = "Contact"
+ # name = "Contact"
   #weight = 400
   #identifier = "contact"
   #url = "/contact/"
