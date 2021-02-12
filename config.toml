@@ -23,7 +23,7 @@ title = "I'm Yadnyesh Gokhale"
 author = "Yadnyesh Gokhale"
 #copyright = "2020-2021"
 description = "Call me Yash"
-#profilePicture = "images/profile.jpg"
+profilePicture = "images/profile.jpg"
 keywords = ""
 #favicon = "favicons/"
 # example ["css/custom.css"]
@@ -55,7 +55,7 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://linkedin.com/yadnyeshg"
+url = "https://linkedin.com/in/yadnyeshg"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
@@ -88,14 +88,14 @@ url = "https://github.com/ydnysh/"
   identifier = "posts"
   url = "/post/"
 
-  [[menu.main]]
-  name = "About"
-  weight = 300
-  identifier = "about"
-  url = "/about/"
+ # [[menu.main]]
+ # name = "About"
+  #weight = 300
+ # identifier = "about"
+ # url = "/about/"
 
-  [[menu.main]]
+  #[[menu.main]]
   name = "Contact"
-  weight = 400
-  identifier = "contact"
-  url = "/contact/"
+  #weight = 400
+  #identifier = "contact"
+  #url = "/contact/"
