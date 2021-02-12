@@ -1,5 +1,5 @@
 title = "Yadnyesh's Personal Blog"
-baseURL = "/hugo-website"
+baseURL = "/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Personal Blog"
   facebook = ""
   twitter = ""
   instagram = ""
