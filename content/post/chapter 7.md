@@ -6,9 +6,13 @@ tags: ["test"]
 title: "Test Blog Post"
 ---
 
-# Parva mihi hunc a fonte repulsa decipit
 
+We can work with makes too!
+
+[Mah image](/images/esmeralda.jpg)
 ## Quoque sunt collo crevit electarumque Talia
+
+
 
 Lorem markdownum quaeque, et pronusque se hunc. Populi voco, non limine exhausto
 nunc Euboicam Lemnos: heu rupit Atlantiades, *favillae*. Vomentem *iam primis*,
