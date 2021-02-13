@@ -9,7 +9,7 @@ title: "Test Blog Post"
 
 We can work with makes too!
 
-[Mah image](/images/esmeralda.jpg)
+![Mah image](/images/esmeralda.jpg)
 ## Quoque sunt collo crevit electarumque Talia
 
 
