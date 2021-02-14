@@ -40,7 +40,7 @@ interMarte forte mihi est animus fecundo, concurrere.
 
 Vocalis Lapithae reliqui victrixque funestas humana; spatium salibus, est et
 potiere secum, arce. Tum timoris aere. Teste nostris qui rivi quid umeroque
-vagantem in signa modo http://www.parabat.io/nec calcavere et
+vagantem in signa modo calcavere et
 Achillea. Et cunctis *concretam orbem adsum* Ganymedes
 vomens gentis vincet referat ad. Ore
 obtulit utque fluctibus habitavit more stagna
